@@ -1,4 +1,6 @@
-# Jloh Brew
+# Homebrew Taps
+
+These are just some homebrew taps that aren't in the main repo I want to use.
 
 ## How do I install these formulae?
 `brew install jloh/brew/<formula>`
